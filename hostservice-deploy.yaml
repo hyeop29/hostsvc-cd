@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: hostservice-container
-        image: hyeop29/hostservice:1.0
+        image: hyeop29/hostservice:bb00a7f8424f24ab4a6a0ce79497c906700b0a74
         resources:
           limits:
             memory: "128Mi"
